@@ -625,7 +625,7 @@ body{
         top: 26%;
         left: 14%;
         font-size: 100%;
-        width: 540px;
+        width:300px;
     }
     
     .area4{
@@ -652,7 +652,7 @@ body{
         top: 51%;
         left: 13%;
         font-size: 100%;
-        width: 540px;
+        width: 300px;
         text-align: center;
     }
     #area4img1{
@@ -689,7 +689,7 @@ body{
         top: 21%;
         left: 11%;
         font-size: 100%;
-        width: 540px;
+        width: 300px;
     }
     .area6{
         background-color:#f2f2f2;
@@ -715,7 +715,7 @@ body{
         top: 51%;
         left: 13%;
         font-size: 100%;
-        width: 540px;
+        width: 300px;
         text-align: center;
     }
     
